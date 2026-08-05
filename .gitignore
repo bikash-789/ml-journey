@@ -1,0 +1,28 @@
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Byte-compiled / Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter Notebook checkpoints & autosaves
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# uv & Package Manager caches
+.uv/
+.cache/
+
+# Environment Variables & Secrets (APIs, tokens)
+.env
+.env.local
+*.env
+
+# Operating System Files
+.DS_Store
+Thumbs.db

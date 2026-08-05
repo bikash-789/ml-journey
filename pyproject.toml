@@ -1,0 +1,13 @@
+[project]
+name = "ml-journey"
+version = "0.1.0"
+description = "machine learning"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "ipykernel>=7.3.0",
+    "jupyterlab>=4.6.2",
+    "numpy>=2.4.6",
+    "pandas>=3.0.5",
+    "scikit-learn>=1.9.0",
+]
